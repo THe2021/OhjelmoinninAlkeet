@@ -1,1 +1,2 @@
 # OhjelmoinninAlkeet
+OhjelmoinninAlkeet kurssin lopputyö.
