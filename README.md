@@ -1,2 +1,2 @@
-# OhjelmoinninAlkeet
-OhjelmoinninAlkeet kurssin lopputyö.
+# PythonKurssi
+Kurssin lopputyö
